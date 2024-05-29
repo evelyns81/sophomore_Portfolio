@@ -4,3 +4,7 @@ h1{
   font-weight: 400;
   font-style: normal;
 }
+ div {
+    background: linear-gradient(to bottom, #f5cde0 0%, #f5cde0 100%);
+    background: linear-gradient(to top, #f4ece0 0%, #f4ece0 100%);
+}
