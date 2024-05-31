@@ -6,6 +6,5 @@ h1{
   font-style: normal;
 }
  body{
-    background: linear-gradient(to bottom, #f5cde0 0%, #f5cde0 100%);
-    background: linear-gradient(to top, #f4ece0 0%, #f4ece0 100%);
+    background-color:f5cde0;
  }
