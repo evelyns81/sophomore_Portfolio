@@ -64,14 +64,14 @@ body{
   background-color: #c9a3a5;
 }
 a:hover{
-  color:#F33A6A;
+  color:#FFFFCC;
 }
 
 a:link{
-  color:#FF69B4;
+  color:#FF99CC;
 }
 a:visited{
-  color:#AA336A;
+  color:#FFD9CC;
 }
 #subheading{
   font-size: 5.5em;
